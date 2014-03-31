@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleClient</string>
+    <string name="action_settings">Settings</string>
+   <!--  <string name="hello_world">Hello world!</string> -->
+    <string name="title_activity_display_compile">ProgramLogs</string>
+    <string name="compile">compile</string>
+    <string name="result">result</string>
+    <string name="info">The command to install the program on the remote mote is sent.This command takes 
+        considerable time. Press compile log to see compile log. If the log is not present then it displays the text compile log not found. If you see a partial log output then presee the compile button again after some time to see complete log.
+        The same instruction holds for result button</string>
+
+</resources>
